@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eliel Alves 
 <br>
-<p align="center"> resolver grandes desafios usando tecnologia. <br><br> Do desenvolvimento backend ao desenvolvimento frontend sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções. Hoje sou um <strong>desenvolvedor FreeLarcer</strong> focado em desenvolvimento web.</p>&nbsp;
+<p align="center"> Resolver grandes desafios usando tecnologia. <br><br> Do desenvolvimento backend ao desenvolvimento frontend sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções. Hoje sou um <strong>desenvolvedor FreeLarcer</strong> focado em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ElielAlvesDosSantos&theme=radical&mode=weekly" />
@@ -28,7 +28,7 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/alvesxsj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/alveskz4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.elielalvesdossantos0@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
